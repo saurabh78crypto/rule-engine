@@ -4,16 +4,16 @@ This repository contains the source code for a full-stack Rule Engine applicatio
 
 ## Table of Contents
 
-1. Project Overview
-2. Frontend
-    - Tech Stack
-    - Features
-    - Setup Instructions
-3. Backend
-    - Tech Stack
-    - Features
-    - Setup Instructions
-4. Design Choices
+1. [Project Overview](#project-overview)
+2. [Frontend](#frontend)
+    - [Tech Stack](#frontend-tech-stack)
+    - [Features](#frontend-features)
+    - [Setup Instructions](#frontend-setup-instructions)
+3. [Backend](#backend)
+    - [Tech Stack](#backend-tech-stack)
+    - [Features](#backend-features)
+    - [Setup Instructions](#backend-setup-instructions)
+4. [Design Choices](#design-choice)
 
 ## Project Overview
 
