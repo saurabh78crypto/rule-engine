@@ -36,8 +36,8 @@ This project implements a Rule Engine that allows users to create business rules
 ### Frontend Features
 - **Create Rule:** A form to create new rules.
 - **Combine Rules:** An interface to combine multiple rules.
-- **Evaluate Rule:** A feature to test and evaluate the created rules.
-- **Modify Rule:** An option to update or delete existing rules.
+- **Evaluate Rule:** A feature to test and evaluate the rules.
+- **Modify Rule:** An option to update existing rules.
 
 ### Frontend Setup Instructions
 
